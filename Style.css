@@ -1,0 +1,44 @@
+#center {
+    position: relative;
+    width: 30%;
+    margin: auto;
+    text-align: center;
+}
+
+#finalTable {
+    position: relative;
+    left: 70px;
+}
+
+body {
+    background-image: url(image/balotelli.jpg);
+}
+
+#title {
+    color: #ff01d0;
+    font-size: 50px;
+}
+
+#gradeTable {
+    color: #ff01d0;
+    font-size: 20px;
+}
+
+#finalTable {
+    color: #ff01d0;
+    font-size: 20px;
+}
+
+#button1 {
+    width: 100px;
+    height: 50px;
+    border-radius: 50%;
+    color: #ff01d0;
+}
+
+#button2 {
+    width: 100px;
+    height: 50px;
+    border-radius: 50%;
+    color: #ff01d0;
+}
